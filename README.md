@@ -70,7 +70,7 @@ VALUES
 ('Mouse Gamer', 'Periféricos', 120.50, 15),
 ('Monitor 24 Polegadas', 'Monitores', 899.99, 5);
 
-##produtos
+## Produtos
 
 Campos:
 
@@ -81,7 +81,7 @@ Campos:
 - quantidade
 - data_cadastro
 
-##Como executar
+## Como executar
 
 Execute o arquivo:
 database.sql
@@ -95,7 +95,7 @@ user="root"
 password="SUA_SENHA"
 database="portfolio_db"
 
-##Executar o projeto
+## Executar o projeto
 
 python sistema_cadastro_produtos.py
 
