@@ -99,7 +99,7 @@ database="portfolio_db"
 
 python sistema_cadastro_produtos.py
 
-##Conceitos aplicados
+## Conceitos aplicados
 Programação em Python
 Integração Python com MySQL
 Operações CRUD
