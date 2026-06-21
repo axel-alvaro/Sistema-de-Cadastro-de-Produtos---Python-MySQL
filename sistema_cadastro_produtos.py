@@ -39,7 +39,7 @@ conexao.commit()
 print("Produto cadastrado com sucesso!")
 
 
-# Mostrar produtos cadastrados
+
 cursor.execute("SELECT * FROM produtos")
 
 produtos = cursor.fetchall()
